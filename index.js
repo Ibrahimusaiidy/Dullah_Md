@@ -821,18 +821,18 @@ ${metadata.desc}`;
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Dullah is Online 🕸\n\n");
+                console.log("Mr b² is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Commands ...\n");
-                fs.readdirSync(__dirname + "/Dullah_cmds").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/Mr b²_cmds").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/Dullah_cmds/" + fichier);
+                            require(__dirname + "/Mr b²_cmds/" + fichier);
                             console.log(fichier + " installed ✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
-                        } /* require(__dirname + "/Dullah_cmds/" + fichier);
+                        } /* require(__dirname + "/Mr b²_cmds/" + fichier);
                          console.log(fichier + " installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
@@ -855,11 +855,11 @@ ${metadata.desc}`;
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
 ╔════◇
-║ 『MR DULLAH MD』
+║ 『MR b² MD』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commands : ${evt.cm.length}︎
-║     MR DULLAH MD
+║     MR b² MD
 ╚════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
