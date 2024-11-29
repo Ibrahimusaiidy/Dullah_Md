@@ -1,9 +1,9 @@
 {
-  "name":"DULLAH MD UPDATE",
-  "description":"Best WhatsApp Bot Developed By Dulla Contact Us 255716945971 Thank you for choose Dullah Md",
+  "name":"Mr b² MD UPDATE",
+  "description":"Best WhatsApp Bot Developed By Mr b² Contact Us 255628848298 Thank you for choose Mr b² Md",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/bb24465612098159bb5a9.jpg",
-  "repository":"https://github.com/abdallahsalimjuma/Dullah_Md",
+  "repository":"https://github.com/Ibrahim saiidy/Mr b²_Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DULLAH MD 🌟",
+      "value":"Mr b² MD 🌟",
       "required":false
 
     } ,
@@ -74,21 +74,21 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "DULLAH👊"
+    "value": "Mr b²👊"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716945971"
+    "value": "255628848298"
 	  
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -103,7 +103,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "yes",
+    "value": "no",
     "required": true 
   }
   },
