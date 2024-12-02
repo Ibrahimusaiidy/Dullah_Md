@@ -1,5 +1,5 @@
 <p align="center">
-DULLAH MD v²
+Mr b² MD v²
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DULLAH;WHATSAPP+BOT+CREATED+BY+DULLAH" alt="Typing SVG" /></a>
@@ -7,12 +7,12 @@ DULLAH MD v²
 
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma">
-    <img alt="Dullah Md logo" height="200" src="https://files.catbox.moe/hegdag.jpg">
+    <img alt="Mr b² Md logo" height="200" src="https://files.catbox.moe/50fkdj.jpg">
   </a>
 </p>
   
 </h1> 
-<p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
+<p align="center">l introduce <b>Mr b²-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
@@ -55,11 +55,11 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 
 
 
-## HOW TO DEPLOY DULLAH MD V2🍃
+## HOW TO DEPLOY Mr b² MD V2🍃
 
 
 ## 1.FIRST STEP 
-## Fork Dullah Md 💥 Repo
+## Fork Mr b² Md 💥 Repo
 
 
 <a href= "https://github.com/abdallahsalimjuma/Dullah_Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
@@ -106,8 +106,8 @@ _Termux Setup not recommended_
     <td>Dullah md</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hlpfuu.jpg" width="180"</td>
-    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
+    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/50fkdj.jpg" width="180"</td>
+    <td><a href="https://github.com/abdallahsalimjuma"><img src="https://files.catbox.moe/50fkdj.jpg" width="180"</td>
   </tr>
 </table 
 
@@ -124,7 +124,7 @@ _Termux Setup not recommended_
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/255716945971" target="_blank">
+<a href="https://wa.me/255628848298" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
@@ -136,16 +136,16 @@ CONTACT DEVELOPER ON WHATSAPP
 
 ## License
 
-The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Mr b² MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-💫THANK YOU FOR CHOOSING Dullah Md💫
+💫THANK YOU FOR CHOOSING Mr b² Md💫
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
          `don't change here`
-- [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**DULLAH MD**](https://github.com/DULLAH_MD)
+- [**Mr b² SIR**](https://github.com/abdallahsalimjuma)
+- [**Mr b² MD**](https://github.com/Mr b²_MD)
 - [** FRECYBER TECH**](https://github.com/Frecyber)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
