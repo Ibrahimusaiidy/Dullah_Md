@@ -5,7 +5,7 @@ const getFBInfo = require("@xaviabot/fb-downloader")
 zokou({ nomCom: 'insta', categorie: "Download" }, async (chatId, bot, { ms, repondre, arg }) => {
   const videoUrl = arg.join(" ");
   if (!videoUrl) {
-    repondre("Please insert a *instagram Video Link* for *DULLAH-MD* to download");
+    repondre("Please insert a *instagram Video Link* for *Mr b²-MD* to download");
     return;
   }
 
@@ -17,7 +17,7 @@ zokou({ nomCom: 'insta', categorie: "Download" }, async (chatId, bot, { ms, repo
       const videoLink = data.data.HD;
       bot.sendMessage(chatId, {
         video: { url: videoLink },
-        caption: "Here is your  Video.\n _Downloaded by_ *DULLA-MD BOT*"
+        caption: "Here is your  Video.\n _Downloaded by_ *Mr b²-MD BOT*"
       }, { quoted: ms });
     }
   } catch (error) {
