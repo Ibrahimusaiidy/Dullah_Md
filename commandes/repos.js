@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/abdallahsalimjuma/Dullah_Md';
+  const githubRepo = 'https://api.github.com/repos/Ibrahim saidy/Mr b²_Md';
   const img = 'https://files.catbox.moe/0cxusf.jpg';
 
   try {
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow Friend
-this is* *Dullah-md 👊.*\n *Join Group Chat* https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx
+this is* *Mr b²-md 👊.*\n *Join Group Chat* https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx
 
 🗼 *REPOSITORY:* ${data.html_url}
 💫 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-🙊 *OWNER:* *Mr Dulla*
-🍃 *THEME:* *DULLAH MD*
+🙊 *OWNER:* *Mr b²*
+🍃 *THEME:* *Mr b² MD*
 🍷 *Am Safe To Fight In My Life*
 __________________________________
-            *Made With Dulla*`;
+            *Made With Mr b²*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
