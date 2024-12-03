@@ -4,8 +4,8 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Salut je m\'appelle *DULLAH🥀_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
-    let d = ' developpé par *Dullah Sir💎*';
+    let z = 'Salut je m\'appelle *Mr b²🥀_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
+    let d = ' developpé par *Mr b² 💎*';
     let varmess = z + d;
     var lien = 'https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv';  // Remplacez cet URL par le lien que vous souhaitez envoyer
     await zk.sendMessage(dest, { text: varmess + "\n" + lien });
@@ -23,7 +23,7 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *DULLAH-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+   let z ='Salut je m\'appelle *Mr b²-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Thomas*'
       let varmess=z+d
       var img='https://telegra.ph/file/CP2BirU5pBj04cXXgEbfuv.jpg'
