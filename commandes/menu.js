@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ DULLAH MD BOT ━━┓
+┏━━ Mr b² MD BOT ━━┓
 ┃ *my owner* : ${s.OWNER_NAME}
 ┃  ▸ *commander* : ${nomAuteurMessage} 
 ┃  ▸ *date *: ${date}
@@ -75,7 +75,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃  ▸ *plugin* : ${cm.length} 
 ┃  ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃  ▸ *running on* : ${os.platform()}
-┃  ▸ *theme* : *DULLA*
+┃  ▸ *theme* : *Mr b²*
 ┗━━━━━━━━━━━━━━━┛\n\n`;
 
 
@@ -83,14 +83,14 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣✣Dullah md  
-┣✣by Dullah Tech
+┣✣Mr b² md  
+┣✣by Mr b² Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-Dullah md cmds𒈒
+Mr b² md cmds𒈒
 `;
 
 
@@ -117,13 +117,13 @@ Dullah md cmds𒈒
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣✣Dullah md bot 
-┣✣by Dullah Tech 
+️┣✣Mr b² md bot 
+┣✣by Mr b² Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃▉ *powered by Dullah*
+┃▉ *powered by Mr b²*
 ┗━━━━━━━━━━━━━━┛\n
 
 
@@ -139,7 +139,7 @@ Dullah md cmds𒈒
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE-MD*, déveloper Fredie" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Mr b²-MD*, déveloper Mr b²" , gifPlayback : true }, { quoted: ms });
 
     }
 
