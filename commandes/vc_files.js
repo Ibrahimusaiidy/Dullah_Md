@@ -89,7 +89,7 @@ zokou({ nomCom: 'done',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join DULLAH MD Telegram Chatroom* https://t.me/+CP2BirU5pBj04cXXgEbfuv`) 
+                 await repondre(`*Tap Here To Join Mr b² MD Telegram Chatroom* https://t.me/+CP2BirU5pBj04cXXgEbfuv`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_dullah md is running on its latest vision_*`) 
+                 await repondre(`*_Mr b² md is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_dullah md bot_*`) 
+                 await repondre(`*_Mr b² md bot_*`) 
 
    
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'done',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join Dullah Md WhatsApp Chartroom Group* https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv`) 
+                 await repondre(`*Tap To Join Mr b² Md WhatsApp Chartroom Group* https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY DULLAH MD BOT",
-    "By Mr Dullah`) 
+    "POWERED BY Mr b² MD BOT",
+    "By Mr b²`) 
 
    
 
